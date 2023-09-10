@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "8647fea59b287610",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c5b8ae95ef8f312",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef68c8680d73dc53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Вопросы (zxc mid)/08.09.2023 Собеседование Стас.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f92fe27877bb2101",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c38f107a4f57fa12",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fc78bcd50282b5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "878dacfdb0a74b57",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "31b5e70867ba4a69",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b2c35709d4879b8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "923fd96f5f723fba",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ac0086cbe7fa383",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba62d086090a36be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Вопросы (zxc mid)/08.09.2023 Собеседование Стас.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55ea488005d9ed91",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Вопросы (zxc mid)/08.09.2023 Собеседование Стас.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f166a06c5a4af136",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f1cf1569a9ec90ae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Вопросы (zxc mid)/08.09.2023 Собеседование Стас.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f92fe27877bb2101",
+  "lastOpenFiles": [
+    "Java/Core/Стандартные библиотеки/Функциональный интерфейс/Supplier.md",
+    "Java/Core/Стандартные библиотеки/Функциональный интерфейс/Consumer.md",
+    "Java/Core/Стандартные библиотеки/Функциональный интерфейс/Function.md",
+    "Java/Core/Stream API/Stream API определение.md",
+    "Java/Core/Stream API/Создание потока примитивных типов mapToInt(), mapToDouble(), mapToLong().md",
+    "Java/Core/Stream API/Промежуточные операции. Intermediate.md",
+    "Java/Core/Stream API/Операция сведения Stream.reduce().md",
+    "Java/Core/Stream API/Конечные операции. Terminal.md",
+    "Java/Core/Stream API/Операции над Stream.md",
+    "Java/Core/Stream API/Запустить Stream.md",
+    "Java/Core/Stream API/Класс Optional.md",
+    "Java/Core/Stream API/Класс Collectors.md",
+    "Вопросы (zxc mid)/08.09.2023 Собеседование Стас.md",
+    "Java/Spring/Spring Core вблизи ядро Spring.md",
+    "Java/Spring/Базовая архитектура и понятия.md",
+    "Pasted image 20230908124846.png",
+    "Вопросы (zxc mid)",
+    "Untitled.canvas",
+    "Patterns/Адаптер.md",
+    "Patterns/Singleton/Неленивый Singleton в Java.md",
+    "Patterns/Singleton/Ленивый Singleton в Java.md",
+    "Patterns/Singleton/Singletone.md",
+    "Patterns/Прототип/Реализация (php).md",
+    "Patterns/Singleton",
+    "Patterns/Прототип/Прототип.md",
+    "Patterns/Прототип",
+    "Patterns/Builder/Реализация (Java).md",
+    "Patterns/Builder/Реализация (php).md",
+    "Patterns/Порождающие.md",
+    "Patterns/Паттерны.md",
+    "Patterns/Builder/Строитель Builder.md",
+    "Patterns/Builder",
+    "Patterns/Абстрактная фабрика",
+    "Java/Core/Стандартные библиотеки/Функциональный интерфейс",
+    "Java/Core/Стандартные библиотеки",
+    "Java/Core/Stream API",
+    "Patterns/Фабричный метод",
+    "Patterns/Простая фабрика",
+    "Pasted image 20230829114634.png",
+    "Pasted image 20230829114357.png",
+    "Pasted image 20230829114335.png",
+    "Pasted image 20230829112530.png",
+    "Java/Pasted image 20230718131727.png",
+    "Java/Pasted image 20230718131300.png",
+    "Java/Pasted image 20230718131131.png",
+    "Java/Pasted image 20230718124031.png",
+    "Java/Pasted image 20230718124015.png",
+    "Untitled 1.canvas"
+  ]
+}

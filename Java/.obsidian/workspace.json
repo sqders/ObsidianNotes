@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "ee4e0db443cb8ae6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f604e21efce81c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cf0996b16e26c14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/Аннотации/Core/@Autowired.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cb65f17ab3583ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/Аннотации/Core/Аннотации для описания состояния бина.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b68ae58d22c7f16f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3502250aeed4e236",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c18c473711e97d7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea50c9bc600369a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "regex",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "02c44292274d09a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "957eb88cbed6f99f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d4a623d69ac4b8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb6cb83b7157fbf1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Spring/Аннотации/Core/@Autowired.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7794b9ff2850fdb3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Spring/Аннотации/Core/@Autowired.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1815280ec9edb5bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0fabce87fd424248",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spring/Аннотации/Core/@Autowired.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8cf0996b16e26c14",
+  "lastOpenFiles": [
+    "Spring/Аннотации/Core/Как Spring работает с классами.md",
+    "Spring/Аннотации/Core/IoC Container.md",
+    "Spring/Аннотации/Core/Bean.md",
+    "Spring/Аннотации/MVC/Spring MVC.md",
+    "Spring/Аннотации/Core/@PropertySource.md",
+    "Spring/Аннотации/Core/@Configuration.md",
+    "Spring/Аннотации/Core/@ComponentScan.md",
+    "Spring/Аннотации/Core/@Component.md",
+    "Pasted image 20230718131727.png",
+    "Spring/Аннотации/Core/Аннотации для описания состояния бина.md",
+    "Spring/Аннотации/Core/@Autowired.md",
+    "Spring/Аннотации/Core/Специальные методы bean-ов.md",
+    "Pasted image 20230718131300.png",
+    "Pasted image 20230718131131.png",
+    "Spring/Аннотации/MVC",
+    "Spring/Аннотации/Core/@Bean.md",
+    "Spring/Аннотации/MVC/@Controller.md",
+    "Spring/Аннотации/MVC/@PathVariable.md",
+    "Spring/Аннотации/Core/@Qualifier.md",
+    "Spring/Аннотации/Core",
+    "Pasted image 20230718124031.png",
+    "Pasted image 20230718124015.png",
+    "Core/Основы/Аннотации.md",
+    "Spring/Аннотации/Core/Scope.md",
+    "Pasted image 20230718120836.png",
+    "Pbs/Аналитик-модуль.md",
+    "Pbs/Конструкторы.md",
+    "Pbs/Модули.md",
+    "Pbs/DataSet.md",
+    "Spring/Spring Data JPA.md",
+    "Pbs",
+    "Spring/Аннотации/MVC/@RequestMapping.md",
+    "images/Pasted image 20230629102635.png",
+    "Spring/Аннотации/Core/Component.md",
+    "Spring/Аннотации/MVC/@RequestParam.md",
+    "Core/Основы/Класс в Java.md",
+    "images/Pasted image 20230717105501.png",
+    "Spring/Аннотации",
+    "images/Pasted image 20230717103458.png",
+    "images/Pasted image 20230717103437.png",
+    "Spring",
+    "Reflection",
+    "SQL",
+    "JavaEE",
+    "JDBC",
+    "Core/IO и NIO"
+  ]
+}

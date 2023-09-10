@@ -23,14 +23,28 @@
             "id": "f92fe27877bb2101",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.5"
+                "file": "Spring/Spring Core/Контекст Spring.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "130329b842a23130",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/Spring Core/Добавление Bean.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Вопросы (zxc mid)/08.09.2023 Собеседование Стас.md",
+                "file": "Spring/Spring Core/Добавление Bean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Вопросы (zxc mid)/08.09.2023 Собеседование Стас.md",
+                "file": "Spring/Spring Core/Добавление Bean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Вопросы (zxc mid)/08.09.2023 Собеседование Стас.md"
+                "file": "Spring/Spring Core/Добавление Bean.md"
               }
             }
           }
@@ -157,55 +171,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f92fe27877bb2101",
+  "active": "130329b842a23130",
   "lastOpenFiles": [
-    "Java/Core/Стандартные библиотеки/Функциональный интерфейс/Supplier.md",
-    "Java/Core/Стандартные библиотеки/Функциональный интерфейс/Consumer.md",
-    "Java/Core/Стандартные библиотеки/Функциональный интерфейс/Function.md",
-    "Java/Core/Stream API/Stream API определение.md",
-    "Java/Core/Stream API/Создание потока примитивных типов mapToInt(), mapToDouble(), mapToLong().md",
-    "Java/Core/Stream API/Промежуточные операции. Intermediate.md",
-    "Java/Core/Stream API/Операция сведения Stream.reduce().md",
-    "Java/Core/Stream API/Конечные операции. Terminal.md",
-    "Java/Core/Stream API/Операции над Stream.md",
-    "Java/Core/Stream API/Запустить Stream.md",
-    "Java/Core/Stream API/Класс Optional.md",
-    "Java/Core/Stream API/Класс Collectors.md",
-    "Вопросы (zxc mid)/08.09.2023 Собеседование Стас.md",
-    "Java/Spring/Spring Core вблизи ядро Spring.md",
-    "Java/Spring/Базовая архитектура и понятия.md",
-    "Pasted image 20230908124846.png",
+    "Pasted image 20230910231116.png",
+    "Pasted image 20230910231105.png",
+    "Spring/Аннотации/Core/Аннотации для описания состояния бина.md",
+    "Spring/Аннотации/Core/Как Spring работает с классами.md",
+    "Spring/Аннотации/Core/Специальные методы bean-ов.md",
+    "Spring/Аннотации/Core/@Autowired.md",
+    "Spring/Аннотации/Core/@Bean.md",
+    "Spring/Аннотации/Core/@Component.md",
+    "Spring/Аннотации/Core/@ComponentScan.md",
+    "Spring/Аннотации/Core/@Configuration.md",
+    "Spring/Аннотации/Core/@PropertySource.md",
+    "Spring/Аннотации/Core/@Qualifier.md",
+    "Spring/Аннотации/Core/IoC Container.md",
+    "Spring/Аннотации/Core/Component.md",
+    "Spring/Аннотации/Core/Bean.md",
+    "Spring/Аннотации/Core/Scope.md",
+    "Spring/Spring Core/Добавление Bean.md",
+    "Spring/Spring Core/Класс конфигурации.md",
+    "Spring/Spring Core/Контекст Spring.md",
+    "Spring/Аннотации/MVC/Spring MVC.md",
+    "Spring/Аннотации/MVC/@RequestParam.md",
+    "Spring/Аннотации/MVC/@RequestMapping.md",
+    "Spring/Аннотации/MVC/@PathVariable.md",
+    "Spring/Аннотации/MVC/@Controller.md",
+    "Pasted image 20230910210044.png",
+    "Pasted image 20230910205833.png",
+    "Pasted image 20230910205745.png",
+    "2023-09-10.md",
+    "Untitled 1.canvas",
+    "Pasted image 20230910204836.png",
+    "Pasted image 20230910204814.png",
+    "Pasted image 20230910204112.png",
+    "Pasted image 20230910203732.png",
+    "Spring/Spring Core/Spring Core.md",
+    "Spring/Spring Core/IOC (inversion of control).md",
+    "Pasted image 20230910173458.png",
+    "Pasted image 20230910173231.png",
+    "Spring/Spring Core/Spring быстро.txt",
+    "Spring/Spring Core",
     "Вопросы (zxc mid)",
     "Untitled.canvas",
-    "Patterns/Адаптер.md",
-    "Patterns/Singleton/Неленивый Singleton в Java.md",
-    "Patterns/Singleton/Ленивый Singleton в Java.md",
-    "Patterns/Singleton/Singletone.md",
-    "Patterns/Прототип/Реализация (php).md",
     "Patterns/Singleton",
-    "Patterns/Прототип/Прототип.md",
     "Patterns/Прототип",
-    "Patterns/Builder/Реализация (Java).md",
-    "Patterns/Builder/Реализация (php).md",
-    "Patterns/Порождающие.md",
-    "Patterns/Паттерны.md",
-    "Patterns/Builder/Строитель Builder.md",
     "Patterns/Builder",
     "Patterns/Абстрактная фабрика",
     "Java/Core/Стандартные библиотеки/Функциональный интерфейс",
     "Java/Core/Стандартные библиотеки",
-    "Java/Core/Stream API",
-    "Patterns/Фабричный метод",
-    "Patterns/Простая фабрика",
-    "Pasted image 20230829114634.png",
-    "Pasted image 20230829114357.png",
-    "Pasted image 20230829114335.png",
-    "Pasted image 20230829112530.png",
-    "Java/Pasted image 20230718131727.png",
-    "Java/Pasted image 20230718131300.png",
-    "Java/Pasted image 20230718131131.png",
-    "Java/Pasted image 20230718124031.png",
-    "Java/Pasted image 20230718124015.png",
-    "Untitled 1.canvas"
+    "Java/Core/Stream API"
   ]
 }

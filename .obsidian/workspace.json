@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы (zxc mid)/08.09.2023 Собеседование Стас.md",
+                "file": "Java/Spring/Spring Core вблизи ядро Spring.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "f92fe27877bb2101",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Вопросы (zxc mid)/08.09.2023 Собеседование Стас.md",
+                "file": "Java/Spring/Spring Core вблизи ядро Spring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Вопросы (zxc mid)/08.09.2023 Собеседование Стас.md",
+                "file": "Java/Spring/Spring Core вблизи ядро Spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Вопросы (zxc mid)/08.09.2023 Собеседование Стас.md"
+                "file": "Java/Spring/Spring Core вблизи ядро Spring.md"
               }
             }
           }
@@ -157,8 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f92fe27877bb2101",
+  "active": "ef68c8680d73dc53",
   "lastOpenFiles": [
+    "Java/Spring/Аннотации/Core/Аннотации для описания состояния бина.md",
+    "Java/Spring/Аннотации/Core/IoC Container.md",
+    "Java/Spring/Аннотации/Core/Component.md",
+    "Java/Spring/Аннотации/Core/Специальные методы bean-ов.md",
+    "Java/Spring/Аннотации/Core/Как Spring работает с классами.md",
+    "Java/Spring/Security (SS)/Веб-безопасность.md",
+    "Java/Spring/Actuator.md",
+    "Java/Spring/Базовая архитектура и понятия.md",
+    "Java/Spring/Spring Core вблизи ядро Spring.md",
+    "Вопросы (zxc mid)/08.09.2023 Собеседование Стас.md",
     "Java/Core/Стандартные библиотеки/Функциональный интерфейс/Supplier.md",
     "Java/Core/Стандартные библиотеки/Функциональный интерфейс/Consumer.md",
     "Java/Core/Стандартные библиотеки/Функциональный интерфейс/Function.md",
@@ -171,9 +170,6 @@
     "Java/Core/Stream API/Запустить Stream.md",
     "Java/Core/Stream API/Класс Optional.md",
     "Java/Core/Stream API/Класс Collectors.md",
-    "Вопросы (zxc mid)/08.09.2023 Собеседование Стас.md",
-    "Java/Spring/Spring Core вблизи ядро Spring.md",
-    "Java/Spring/Базовая архитектура и понятия.md",
     "Pasted image 20230908124846.png",
     "Вопросы (zxc mid)",
     "Untitled.canvas",
@@ -181,15 +177,8 @@
     "Patterns/Singleton/Неленивый Singleton в Java.md",
     "Patterns/Singleton/Ленивый Singleton в Java.md",
     "Patterns/Singleton/Singletone.md",
-    "Patterns/Прототип/Реализация (php).md",
     "Patterns/Singleton",
-    "Patterns/Прототип/Прототип.md",
     "Patterns/Прототип",
-    "Patterns/Builder/Реализация (Java).md",
-    "Patterns/Builder/Реализация (php).md",
-    "Patterns/Порождающие.md",
-    "Patterns/Паттерны.md",
-    "Patterns/Builder/Строитель Builder.md",
     "Patterns/Builder",
     "Patterns/Абстрактная фабрика",
     "Java/Core/Стандартные библиотеки/Функциональный интерфейс",

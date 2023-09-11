@@ -48,7 +48,7 @@
       "fields": []
     },
     "links": {
-      "internal": false,
+      "internal": true,
       "unshared": false,
       "wiki": false,
       "slugify": false

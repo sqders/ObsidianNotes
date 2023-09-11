@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Spring/Spring Core вблизи ядро Spring.md",
+                "file": "Собес ВТБ/ACID.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Spring/Spring Core вблизи ядро Spring.md",
+                "file": "Собес ВТБ/ACID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Spring/Spring Core вблизи ядро Spring.md",
+                "file": "Собес ВТБ/ACID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Spring/Spring Core вблизи ядро Spring.md"
+                "file": "Собес ВТБ/ACID.md"
               }
             }
           }
@@ -148,53 +148,53 @@
   },
   "active": "ef68c8680d73dc53",
   "lastOpenFiles": [
-    "Java/Spring/Аннотации/Core/Аннотации для описания состояния бина.md",
-    "Java/Spring/Аннотации/Core/IoC Container.md",
-    "Java/Spring/Аннотации/Core/Component.md",
-    "Java/Spring/Аннотации/Core/Специальные методы bean-ов.md",
-    "Java/Spring/Аннотации/Core/Как Spring работает с классами.md",
-    "Java/Spring/Security (SS)/Веб-безопасность.md",
-    "Java/Spring/Actuator.md",
-    "Java/Spring/Базовая архитектура и понятия.md",
+    "Собес ВТБ/SOLID.md",
+    "Собес ВТБ/ACID.md",
+    "Spring/Spring Core/Добавление Bean.md",
+    "Собес ВТБ",
+    "Spring/Spring Core/Класс конфигурации.md",
+    "Spring/Spring Core/Контекст Spring.md",
+    "Spring/Spring Core/С помощью аннотации Bean.md",
+    "Spring/Spring Core/IOC (inversion of control).md",
+    "Spring/Базовая архитектура и понятия.md",
+    "Spring/Spring Core вблизи ядро Spring.md",
+    "Spring/Spring Boot.md",
+    "Spring/Серверное приложение в Spring.md",
+    "Spring/Система сборки.md",
+    "Spring/Actuator.md",
+    "Spring/Spring Data JPA.md",
     "Java/Spring/Spring Core вблизи ядро Spring.md",
-    "Вопросы (zxc mid)/08.09.2023 Собеседование Стас.md",
-    "Java/Core/Стандартные библиотеки/Функциональный интерфейс/Supplier.md",
-    "Java/Core/Стандартные библиотеки/Функциональный интерфейс/Consumer.md",
-    "Java/Core/Стандартные библиотеки/Функциональный интерфейс/Function.md",
-    "Java/Core/Stream API/Stream API определение.md",
-    "Java/Core/Stream API/Создание потока примитивных типов mapToInt(), mapToDouble(), mapToLong().md",
-    "Java/Core/Stream API/Промежуточные операции. Intermediate.md",
-    "Java/Core/Stream API/Операция сведения Stream.reduce().md",
-    "Java/Core/Stream API/Конечные операции. Terminal.md",
-    "Java/Core/Stream API/Операции над Stream.md",
-    "Java/Core/Stream API/Запустить Stream.md",
-    "Java/Core/Stream API/Класс Optional.md",
-    "Java/Core/Stream API/Класс Collectors.md",
-    "Pasted image 20230908124846.png",
+    "Untitled 1.canvas",
+    "Spring/Аннотации/Core/@ComponentScan.md",
+    "Spring/Аннотации/MVC/Spring MVC.md",
+    "Spring/Аннотации/MVC/@RequestParam.md",
+    "Spring/Аннотации/MVC/@RequestMapping.md",
+    "Spring/Аннотации/MVC/@PathVariable.md",
+    "Spring/Аннотации/MVC/@Controller.md",
+    "Spring/Аннотации/Core/Специальные методы bean-ов.md",
+    "Spring/Аннотации/Core/Как Spring работает с классами.md",
+    "Spring/Аннотации/Core/Аннотации для описания состояния бина.md",
+    "Spring/Аннотации/Core/Scope.md",
+    "Spring/Аннотации/Core/IoC Container.md",
+    "Spring/Аннотации/MVC",
+    "Spring/Аннотации/Core",
+    "Spring/Spring Core/Spring быстро.txt",
+    "Spring/Аннотации",
+    "Spring/Spring Core",
+    "Spring/Security (SS)",
+    "Spring",
+    "Pasted image 20230910231116.png",
+    "Pasted image 20230910231105.png",
+    "Pasted image 20230910210044.png",
+    "Pasted image 20230910205833.png",
+    "Pasted image 20230910205745.png",
+    "Pasted image 20230910204836.png",
+    "Pasted image 20230910204814.png",
+    "Pasted image 20230910204112.png",
+    "Pasted image 20230910203732.png",
+    "Pasted image 20230910173458.png",
     "Вопросы (zxc mid)",
     "Untitled.canvas",
-    "Patterns/Адаптер.md",
-    "Patterns/Singleton/Неленивый Singleton в Java.md",
-    "Patterns/Singleton/Ленивый Singleton в Java.md",
-    "Patterns/Singleton/Singletone.md",
-    "Patterns/Singleton",
-    "Patterns/Прототип",
-    "Patterns/Builder",
-    "Patterns/Абстрактная фабрика",
-    "Java/Core/Стандартные библиотеки/Функциональный интерфейс",
-    "Java/Core/Стандартные библиотеки",
-    "Java/Core/Stream API",
-    "Patterns/Фабричный метод",
-    "Patterns/Простая фабрика",
-    "Pasted image 20230829114634.png",
-    "Pasted image 20230829114357.png",
-    "Pasted image 20230829114335.png",
-    "Pasted image 20230829112530.png",
-    "Java/Pasted image 20230718131727.png",
-    "Java/Pasted image 20230718131300.png",
-    "Java/Pasted image 20230718131131.png",
-    "Java/Pasted image 20230718124031.png",
-    "Java/Pasted image 20230718124015.png",
-    "Untitled 1.canvas"
+    "Patterns/Singleton"
   ]
 }

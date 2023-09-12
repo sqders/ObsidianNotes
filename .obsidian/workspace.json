@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Собес ВТБ/ACID.md",
+                "file": "Вопросы (zxc mid)/08.09.2023 Собеседование Стас.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Собес ВТБ/ACID.md",
+                "file": "Вопросы (zxc mid)/08.09.2023 Собеседование Стас.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Собес ВТБ/ACID.md",
+                "file": "Вопросы (zxc mid)/08.09.2023 Собеседование Стас.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Собес ВТБ/ACID.md"
+                "file": "Вопросы (zxc mid)/08.09.2023 Собеседование Стас.md"
               }
             }
           }
@@ -148,34 +148,34 @@
   },
   "active": "ef68c8680d73dc53",
   "lastOpenFiles": [
-    "Собес ВТБ/SOLID.md",
-    "Собес ВТБ/ACID.md",
-    "Spring/Spring Core/Добавление Bean.md",
-    "Собес ВТБ",
-    "Spring/Spring Core/Класс конфигурации.md",
+    "Вопросы (zxc mid)/Собес ВТБ/SQL/Типы данных.md",
+    "Вопросы (zxc mid)/Собес ВТБ/SQL",
+    "Spring/Spring Core/Жизненный цикл Bean`a.md",
+    "Spring/Spring Core/Жизненный цикл Spring`a.md",
+    "().md",
     "Spring/Spring Core/Контекст Spring.md",
+    "Spring/Spring Core/Класс конфигурации.md",
+    "Spring/Аннотации/MVC/Spring MVC.md",
+    "Spring/Spring Core/Наследование Bean Scope.md",
+    "Spring/Аннотации/Core/Специальные методы bean-ов.md",
+    "Spring/Аннотации/Core/Как Spring работает с классами.md",
+    "Spring/Spring Core/Добавление Bean.md",
     "Spring/Spring Core/С помощью аннотации Bean.md",
     "Spring/Spring Core/IOC (inversion of control).md",
+    "Spring/Аннотации/Core/Scope.md",
+    "Spring/Аннотации/Core/IoC Container.md",
+    "Вопросы (zxc mid)/Собес ВТБ/Транзакции.md",
+    "Вопросы (zxc mid)/Собес ВТБ/SOLID.md",
+    "Вопросы (zxc mid)/08.09.2023 Собеседование Стас.md",
+    "Вопросы (zxc mid)/Собес ВТБ/ACID.md",
+    "Вопросы (zxc mid)/Собес ВТБ",
     "Spring/Базовая архитектура и понятия.md",
     "Spring/Spring Core вблизи ядро Spring.md",
     "Spring/Spring Boot.md",
     "Spring/Серверное приложение в Spring.md",
     "Spring/Система сборки.md",
     "Spring/Actuator.md",
-    "Spring/Spring Data JPA.md",
-    "Java/Spring/Spring Core вблизи ядро Spring.md",
     "Untitled 1.canvas",
-    "Spring/Аннотации/Core/@ComponentScan.md",
-    "Spring/Аннотации/MVC/Spring MVC.md",
-    "Spring/Аннотации/MVC/@RequestParam.md",
-    "Spring/Аннотации/MVC/@RequestMapping.md",
-    "Spring/Аннотации/MVC/@PathVariable.md",
-    "Spring/Аннотации/MVC/@Controller.md",
-    "Spring/Аннотации/Core/Специальные методы bean-ов.md",
-    "Spring/Аннотации/Core/Как Spring работает с классами.md",
-    "Spring/Аннотации/Core/Аннотации для описания состояния бина.md",
-    "Spring/Аннотации/Core/Scope.md",
-    "Spring/Аннотации/Core/IoC Container.md",
     "Spring/Аннотации/MVC",
     "Spring/Аннотации/Core",
     "Spring/Spring Core/Spring быстро.txt",
@@ -194,7 +194,6 @@
     "Pasted image 20230910203732.png",
     "Pasted image 20230910173458.png",
     "Вопросы (zxc mid)",
-    "Untitled.canvas",
-    "Patterns/Singleton"
+    "Untitled.canvas"
   ]
 }

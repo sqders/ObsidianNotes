@@ -1,0 +1,1 @@
+[https://topjava.ru/blog/stack-and-heap-in-java](https://topjava.ru/blog/stack-and-heap-in-java)

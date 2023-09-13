@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы (zxc mid)/Собес ВТБ/Generics + стирание типов.md",
+                "file": "Spring/Spring Core/Dependency Injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Вопросы (zxc mid)/Собес ВТБ/Generics + стирание типов.md",
+                "file": "Spring/Spring Core/Dependency Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Вопросы (zxc mid)/Собес ВТБ/Generics + стирание типов.md",
+                "file": "Spring/Spring Core/Dependency Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Вопросы (zxc mid)/Собес ВТБ/Generics + стирание типов.md"
+                "file": "Spring/Spring Core/Dependency Injection.md"
               }
             }
           }
@@ -148,17 +148,18 @@
   },
   "active": "ef68c8680d73dc53",
   "lastOpenFiles": [
-    "Вопросы (zxc mid)/Собес ВТБ/Стек и куча в java.md",
-    "Вопросы (zxc mid)/Собес ВТБ/Generics + стирание типов.md",
-    "Вопросы (zxc mid)/Собес ВТБ/Аннотации.md",
-    "Вопросы (zxc mid)/Собес ВТБ/Различия между абстрактным классом и интерфейсом.md",
     "Вопросы (zxc mid)/Собес ВТБ/ACID.md",
+    "Spring/Spring Core/Dependency Injection.md",
     "Вопросы (zxc mid)/Собес ВТБ/Транзакции.md",
+    "Spring/Spring Core/Жизненный цикл Spring`a.md",
+    "Spring/Spring Core/Жизненный цикл Bean`a.md",
+    "Вопросы (zxc mid)/Собес ВТБ/Аннотации.md",
+    "Вопросы (zxc mid)/Собес ВТБ/Generics + стирание типов.md",
+    "Вопросы (zxc mid)/Собес ВТБ/Стек и куча в java.md",
+    "Вопросы (zxc mid)/Собес ВТБ/Различия между абстрактным классом и интерфейсом.md",
     "Вопросы (zxc mid)/08.09.2023 Собеседование Стас.md",
     "Вопросы (zxc mid)/Собес ВТБ/SQL/Типы данных.md",
     "Вопросы (zxc mid)/Собес ВТБ/SQL",
-    "Spring/Spring Core/Жизненный цикл Bean`a.md",
-    "Spring/Spring Core/Жизненный цикл Spring`a.md",
     "().md",
     "Spring/Spring Core/Контекст Spring.md",
     "Spring/Spring Core/Класс конфигурации.md",
@@ -175,7 +176,6 @@
     "Вопросы (zxc mid)/Собес ВТБ",
     "Spring/Базовая архитектура и понятия.md",
     "Spring/Spring Core вблизи ядро Spring.md",
-    "Spring/Spring Boot.md",
     "Untitled 1.canvas",
     "Spring/Аннотации/MVC",
     "Spring/Аннотации/Core",

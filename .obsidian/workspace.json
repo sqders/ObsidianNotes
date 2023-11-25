@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring Core/Dependency Injection.md",
+                "file": "Spring/Spring Core/Редакторы свойств компонентов Spring Beans.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы (zxc mid)/08.09.2023 Собеседование Стас.md",
+                "file": "Java/JavaEE/Enterprise Java Beans.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb25ae4ac19dc334",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/Spring Core/Наследование Bean Scope.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Вопросы (zxc mid)/08.09.2023 Собеседование Стас.md",
+                "file": "Spring/Spring Core/Редакторы свойств компонентов Spring Beans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Вопросы (zxc mid)/08.09.2023 Собеседование Стас.md",
+                "file": "Spring/Spring Core/Редакторы свойств компонентов Spring Beans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Вопросы (zxc mid)/08.09.2023 Собеседование Стас.md"
+                "file": "Spring/Spring Core/Редакторы свойств компонентов Spring Beans.md"
               }
             }
           },
@@ -169,35 +180,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee1f59b9df6612d3",
+  "active": "ef68c8680d73dc53",
   "lastOpenFiles": [
-    "Вопросы (zxc mid)/Собес ВТБ/Аннотации.md",
-    "Вопросы (zxc mid)/08.09.2023 Собеседование Стас.md",
-    "Java/Core/Основы/Анонимные классы.md",
-    "Вопросы (zxc mid)/Собес ВТБ/Различия между абстрактным классом и интерфейсом.md",
-    "Вопросы (zxc mid)/Собес ВТБ/Generics + стирание типов.md",
-    "Java/Core/Основы/Методы Object.md",
+    "Pasted image 20231124122229.png",
+    "Spring/Spring Core/Реализация интерфейса BeanFactory.md",
+    "Spring/Spring Core/Редакторы свойств компонентов Spring Beans.md",
+    "Spring/Spring Core/ApplicationContext.md",
+    "Spring/Spring Core/Dependency Injection.md",
+    "Spring/Spring Core/С помощью аннотации Bean.md",
+    "Spring/Spring Core/Автосвязывание компонентов Spring Beans.md",
+    "Spring/Spring Core/Добавление Bean.md",
+    "Spring/Spring Core/Жизненный цикл Bean`a.md",
+    "Spring/Spring Core/Способы конфигурирования приложений Spriпg.md",
+    "Spring/Spring Core/Разрешение зависимостей.md",
+    "Spring/Spring Core/Перехватчик Завершения.md",
+    "Spring/Spring Core/Наследование Bean Scope.md",
+    "Spring/Spring Core/Контекст Spring.md",
+    "Spring/Spring Core/Класс конфигурации.md",
+    "Spring/Spring Core/Интерфейс ApplicationContextAware.md",
+    "Spring/Spring Core/Интерфейс BeanNameAware.md",
+    "Spring/Аннотации/MVC/@PathVariable.md",
+    "Spring/Аннотации/MVC/@Controller.md",
+    "Spring/Аннотации/MVC/@RequestMapping.md",
+    "Spring/Аннотации/MVC/@RequestParam.md",
+    "Spring/Аннотации/Core/Component.md",
+    "Spring/Аннотации/Core/Bean.md",
+    "Spring/Аннотации/Core/Специальные методы bean-ов.md",
+    "Spring/Аннотации/Core/Как Spring работает с классами.md",
+    "Spring/Аннотации/Core/Аннотации для описания состояния бина.md",
+    "Pasted image 20231122001326.png",
+    "Pasted image 20231122000752.png",
+    "Pasted image 20231101132315.png",
     "Pasted image 20230914004723.png",
-    "Java/Reflection/Рефлексия. Что это такое..md",
-    "Java/JDBC/SQL - injections инъекции.md",
-    "Java/JDBC/SQL Batch - группировка операций.md",
-    "Java/JDBC/Scrollable RowSet.md",
-    "Java/JDBC/Транзакции Transactions.md",
-    "Java/JDBC/Хранимые процедуры (Procedure Call).md",
-    "Java/JDBC/Сохранение больших объектов BLOB и CLOB объекты.md",
-    "Java/JDBC/Основы JDBC.md",
-    "Java/JDBC/Множественные результаты.md",
-    "Java/JDBC/Кеширование результата запроса CachedRowSet.md",
-    "Java/JavaEE/JSP.md",
-    "Java/JavaEE/JavaEE - сервер приложений.md",
-    "Java/JavaEE/Java EE ОСНОВЫ.md",
-    "Java/JavaEE/Apache Tomcat.md",
-    "Java/JavaEE/HTTP теория.md",
-    "Java/JavaEE/Applet - апплет.md",
-    "Java/JavaEE/Клиент-серверная архитектура.md",
-    "Java/JavaEE/Работа с HTTP в Java.md",
-    "Java/JavaEE/Инверсия управления JavaEE.md",
-    "Java/JavaEE/Сервлеты.md",
     "Java/images/Pasted image 20230505100245.png",
     "Вопросы (zxc mid)/Собес ВТБ/SQL",
     "Вопросы (zxc mid)/Собес ВТБ",
@@ -214,9 +228,6 @@
     "Pasted image 20230910210044.png",
     "Pasted image 20230910205833.png",
     "Pasted image 20230910205745.png",
-    "Pasted image 20230910204836.png",
-    "Pasted image 20230910204814.png",
-    "Pasted image 20230910204112.png",
     "Вопросы (zxc mid)",
     "Untitled.canvas"
   ]

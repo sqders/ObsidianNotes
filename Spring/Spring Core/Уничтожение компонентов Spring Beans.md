@@ -1,0 +1,1 @@
+Когда применяется реализация интерфейса ApplicationContext, заключающая в оболочку интерфейс **DefaultListaЬleBeanFactory** (например, через метод getDefaultListaЬleBeanFactory ()  из класса GenericXmlApplicationContext), то, вызвав метод **ConfiguraЬleBeanFactory.destroySingletons()**, можно со­общить интерфейсу BeanFactory, что требуется уничтожить все одиночные экзем­пляры.

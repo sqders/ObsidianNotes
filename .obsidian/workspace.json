@@ -1,63 +1,64 @@
 {
   "main": {
-    "id": "8647fea59b287610",
+    "id": "30e2e8c5f1481051",
     "type": "split",
     "children": [
       {
-        "id": "1c5b8ae95ef8f312",
+        "id": "f34723165d35d581",
         "type": "tabs",
         "children": [
           {
-            "id": "ef68c8680d73dc53",
+            "id": "08bc6a1e5501523d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring Core/Редакторы свойств компонентов Spring Beans.md",
+                "file": "Вопросы (zxc mid)/Собес ВТБ/Generics + стирание типов.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ee1f59b9df6612d3",
+            "id": "bece5afaa51ac6e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/JavaEE/Enterprise Java Beans.md",
+                "file": "Вопросы (zxc mid)/Собес ВТБ/Собес Юры и Сергея.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cb25ae4ac19dc334",
+            "id": "8e0ea0a46a02fa9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring Core/Наследование Bean Scope.md",
+                "file": "Spring/Spring Core/Профили.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c38f107a4f57fa12",
+    "id": "dd1f7df06eca2f05",
     "type": "split",
     "children": [
       {
-        "id": "3fc78bcd50282b5a",
+        "id": "082cea47fc9b02cf",
         "type": "tabs",
         "children": [
           {
-            "id": "878dacfdb0a74b57",
+            "id": "aab9c1d71a8785ea",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -67,7 +68,7 @@
             }
           },
           {
-            "id": "31b5e70867ba4a69",
+            "id": "33be51bc3fb32630",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -82,7 +83,7 @@
             }
           },
           {
-            "id": "6b2c35709d4879b8",
+            "id": "cd699cf2d982ccf7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,20 +97,20 @@
     "width": 300
   },
   "right": {
-    "id": "923fd96f5f723fba",
+    "id": "492d2e5a12b0cd54",
     "type": "split",
     "children": [
       {
-        "id": "0ac0086cbe7fa383",
+        "id": "1c4b201ffeb69b15",
         "type": "tabs",
         "children": [
           {
-            "id": "ba62d086090a36be",
+            "id": "24670682c94090a0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Spring Core/Редакторы свойств компонентов Spring Beans.md",
+                "file": "Spring/Spring Core/Профили.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,19 +122,19 @@
             }
           },
           {
-            "id": "55ea488005d9ed91",
+            "id": "f963a146c536e46b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Spring Core/Редакторы свойств компонентов Spring Beans.md",
+                "file": "Spring/Spring Core/Профили.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f166a06c5a4af136",
+            "id": "d03d52fc5f6d9acd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -144,22 +145,22 @@
             }
           },
           {
-            "id": "f1cf1569a9ec90ae",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Spring/Spring Core/Редакторы свойств компонентов Spring Beans.md"
-              }
-            }
-          },
-          {
-            "id": "b9e0373ea89c5ac7",
+            "id": "f288035f5fad0001",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "bc4560d7ae3c8eed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spring/Spring Core/Профили.md"
               }
             }
           }
@@ -180,55 +181,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef68c8680d73dc53",
+  "active": "8e0ea0a46a02fa9f",
   "lastOpenFiles": [
-    "Pasted image 20231124122229.png",
-    "Spring/Spring Core/Реализация интерфейса BeanFactory.md",
-    "Spring/Spring Core/Редакторы свойств компонентов Spring Beans.md",
-    "Spring/Spring Core/ApplicationContext.md",
-    "Spring/Spring Core/Dependency Injection.md",
-    "Spring/Spring Core/С помощью аннотации Bean.md",
-    "Spring/Spring Core/Автосвязывание компонентов Spring Beans.md",
-    "Spring/Spring Core/Добавление Bean.md",
-    "Spring/Spring Core/Жизненный цикл Bean`a.md",
     "Spring/Spring Core/Способы конфигурирования приложений Spriпg.md",
-    "Spring/Spring Core/Разрешение зависимостей.md",
-    "Spring/Spring Core/Перехватчик Завершения.md",
-    "Spring/Spring Core/Наследование Bean Scope.md",
-    "Spring/Spring Core/Контекст Spring.md",
+    "Java/Core/Функциональный интерфейс/Consumer.md",
+    "Java/Core/Функциональный интерфейс/Function.md",
+    "Java/Core/Функциональный интерфейс/Функциональный интерфейс.md",
+    "Java/Core/Функциональный интерфейс/UnaryOperator.md",
+    "Java/Core/Функциональный интерфейс/Supplier.md",
+    "Java/Core/Функциональный интерфейс/Predicate.md",
+    "Java/Core/Функциональный интерфейс",
+    "Pasted image 20231124162645.png",
+    "Pasted image 20231124155803.png",
+    "Pasted image 20231124155619.png",
+    "Pasted image 20231124155500.png",
+    "Pasted image 20231124155351.png",
+    "Pasted image 20231124155239.png",
+    "Spring/Spring Core/Отличия ApplicationContext и BeanFactory.md",
+    "Spring/Spring Core/Профили.md",
+    "Pasted image 20231124154204.png",
+    "Pasted image 20231124153049.png",
+    "Pasted image 20231124152351.png",
+    "Spring/Spring Core/Инициализация Bean.md",
     "Spring/Spring Core/Класс конфигурации.md",
-    "Spring/Spring Core/Интерфейс ApplicationContextAware.md",
-    "Spring/Spring Core/Интерфейс BeanNameAware.md",
-    "Spring/Аннотации/MVC/@PathVariable.md",
-    "Spring/Аннотации/MVC/@Controller.md",
-    "Spring/Аннотации/MVC/@RequestMapping.md",
-    "Spring/Аннотации/MVC/@RequestParam.md",
-    "Spring/Аннотации/Core/Component.md",
-    "Spring/Аннотации/Core/Bean.md",
-    "Spring/Аннотации/Core/Специальные методы bean-ов.md",
-    "Spring/Аннотации/Core/Как Spring работает с классами.md",
-    "Spring/Аннотации/Core/Аннотации для описания состояния бина.md",
-    "Pasted image 20231122001326.png",
-    "Pasted image 20231122000752.png",
-    "Pasted image 20231101132315.png",
-    "Pasted image 20230914004723.png",
-    "Java/images/Pasted image 20230505100245.png",
-    "Вопросы (zxc mid)/Собес ВТБ/SQL",
-    "Вопросы (zxc mid)/Собес ВТБ",
-    "Untitled 1.canvas",
-    "Spring/Аннотации/MVC",
-    "Spring/Аннотации/Core",
-    "Spring/Spring Core/Spring быстро.txt",
-    "Spring/Аннотации",
-    "Spring/Spring Core",
-    "Spring/Security (SS)",
-    "Spring",
-    "Pasted image 20230910231116.png",
-    "Pasted image 20230910231105.png",
-    "Pasted image 20230910210044.png",
-    "Pasted image 20230910205833.png",
-    "Pasted image 20230910205745.png",
-    "Вопросы (zxc mid)",
-    "Untitled.canvas"
+    "Spring/Spring Core/Уничтожение компонентов Spring Beans.md",
+    "Pasted image 20231123145904.png",
+    "Spring/Spring Core/Создание Bean.md",
+    "Java/Core/IO и NIO/Класс File.md",
+    "Java/Core/IO и NIO/Streams введение.md",
+    "Java/Core/IO и NIO/Сериализация и десериализация.md",
+    "Java/Core/IO и NIO/Классы DataInputStream & DataOutputStream.md",
+    "Java/Core/IO и NIO/Классы FileInputStream & FileOutputStream.md",
+    "Java/Core/IO и NIO/Классы FileWriter & FileReader.md",
+    "Java/Core/IO и NIO/Класс RandomAccessFile.md",
+    "Java/Core/IO и NIO/Классы BufferedReader & BufferedWriter.md",
+    "Java/Core/IO и NIO/Введение в Buffer & Channel.md",
+    "Java/JavaEE/JNDI.md",
+    "Java/Core/IO и NIO/Класс Paths. Интерфейс Path.md",
+    "Java/Core/IO и NIO/Класс Files.md",
+    "Java/Core/Стандартные библиотеки/Функциональный интерфейс/Predicate.md",
+    "Вопросы (zxc mid)/Собес ВТБ/PgplSql",
+    "Patterns/Proxy"
   ]
 }

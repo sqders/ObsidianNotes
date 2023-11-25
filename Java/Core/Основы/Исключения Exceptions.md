@@ -18,7 +18,7 @@ try {
 Чтобы обработать разные исключения в 1 catch блоке, используй:  `catch (Class1 | Class2 | Class3)`
 ### Оператор try с ресурсами
 Допустим, мы пишем текст в файл. И при записи в цикле, возникает ошибка, которая прерывает поток исполнения дальше. После цикла стоит `.close()` метод для закрытия потока файла. До этой инструкции при исключении не дойдёт поток исполнения и файл будет открыт, что может пагубно отразиться на производительности и исчерпать количество дескрипторов файлов. Для того, чтобы избежать этого, существует интерфейс `AutoCloseable` и особая форма `try`:
-```
+```java
 try (ТипРесурса1 res1 = init1; ТипРесурса2 res2 = init2; ...) {
 	операторы
 }
@@ -31,7 +31,7 @@ try (PrintWriter out = new PrintWriter("output.txt")) {
 }
 ```
 Ресурсы закрываются в обратном порядке их инициализации. Например, в коде ниже `out.close()` первый, `in.close()` второй:
-```
+```java
 try (Scanner in = new Scanner(Paths.get("/usr/share/dict/words"));
 		PrintWriter out = new PrintWriter("output.txt")) {
 	while (in.hasNext())
@@ -61,6 +61,30 @@ try {
 }
 ```
 **Tip:** Механизм связывания исключений в цепочку оказывается удобным в том случае, если проверяемое исключение происходит в методе, где запрещено генерировать проверяемое исключение. Такое исключение можно перехватить и связать его в цепочку с непроверяемым исключением.
+### Ловля завернутых исключений
+Чтобы обнаружить завернутую ошибку требуется использовать метод Exception.getCause() и выбросить эту ошибку через throw
+```java
+SomeCheckedExceptions sce = new SomeCheckedExceptions();  
+sce.throwSomeUncheckedExceptions(3);  
+for(int i = 0; i < 4 ;i++){  
+    try{  
+        if(i<3){  
+            sce.throwSomeUncheckedExceptions(i);  
+        }else throw new SomeException();  
+    } catch(SomeException e){  
+        System.out.println("SomeException "+e);  
+    }catch(RuntimeException re){  
+        try{  
+            throw re.getCause();  
+        }catch (FileNotFoundException e){  
+            System.out.println("FileNotFoundException "+e);  
+        }catch (IOException e){  
+            System.out.println("IOException"+e);  
+        }catch (Throwable e){  
+            System.out.println("Throwable"+e);  
+        }  
+    }
+```
 ### Трассировка стека
 Это перечень всех зависших вызовов методов на момент генерирования исключения. Результат направляется в стандартный поток вывода ошибок `System.err`
 Если требуется сохранить в другом месте - нужно установить **обработчик необрабатываемых исключений**:
